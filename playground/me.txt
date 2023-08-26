@@ -1,0 +1,6 @@
+{{#user}}
+Name: Ayush Shah
+Skills: AWS,DevOps,C++,Python
+Email: ayush10shah@gmail.com
+{{/user}}
+
